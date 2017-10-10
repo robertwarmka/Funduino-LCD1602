@@ -1,8 +1,3 @@
-//LCD1602
-//You should now see your LCD1602 display the flowing characters "SUNFOUNDER" and "hello, world"
-//Email:support@sunfounder.com
-//Website:www.sunfounder.com
-//2015.5.7 
 #include <LiquidCrystal.h>// include the library code
 /**********************************************************/
 char array1[]="Hello, world!";
