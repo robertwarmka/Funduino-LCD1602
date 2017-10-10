@@ -10,7 +10,6 @@ LiquidCrystal lcd(12, 11, 9, 8, 7, 6);
 void setup() {
   lcd.begin(16, 2);  // set up the LCD's number of columns and rows:
   lcd.setCursor(0, 0);
-  lcd.print("Woo!");
 }
 /*********************************************************/
 void loop() {
